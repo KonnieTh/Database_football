@@ -1,4 +1,4 @@
-# football database
+# Football Database
 
 Για συλλογή δεδομένων μέσω web-scraping:
 
